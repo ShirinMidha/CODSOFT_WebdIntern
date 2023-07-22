@@ -1,0 +1,43 @@
+.container{
+    text-align: center;
+	margin-top:10px;
+	background-image: url("https://th.bing.com/th/id/OIP.x9rE5ae7vUczgHMPy8vEHwHaHa?pid=ImgDet&w=188&h=188&c=7");
+}
+
+table{
+    margin:auto;
+}
+
+input{
+    border-radius: 50px;
+    border: 10px solid rosybrown;
+	background:seashell;
+    font-size:40px;
+    height: 65px;
+    width: 456px;
+}
+
+button{
+    border-radius: 20px;
+    font-size: 40px;
+    background: slategrey;
+    width: 102px;
+    height: 90px;
+    margin: 6px;
+}
+
+.calculator{ 
+    border: 10px solid white;
+  opacity:100%;
+    background-color: black;
+    padding: 23px;
+    border-radius: 53px;
+    display: inline-block;
+    
+}
+
+h1{
+    font-size: 60px;
+    font-family: sanssarif;
+    color: white;
+}
